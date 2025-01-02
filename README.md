@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Xu Heng</h1>
-<h3 align="center">Child Of God ✝️ - Software Engineer in FeedMe POS - Musician</h3>
+<h3 align="center">Child Of God ✝️ - Software Engineer in GainCity Singapore - Musician</h3>
 
 - 📫 How to reach me **off.txh0607@gmail.com**
 
